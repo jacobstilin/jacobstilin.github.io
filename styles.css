@@ -22,7 +22,6 @@ body.d{
 	background-image: url("miraSpain.jpg");
 	background-size: contain;
 	
-	
 }
 
 h1{
@@ -46,6 +45,7 @@ h3{
 .homePageHeader{
 	color: white;
 }
+
 .aboutMeHeader{
 	color: white;
 }
@@ -55,12 +55,19 @@ h3{
 }
 
 .contactHeader{
-	color:white;
+	color: white;
 }
 
 p{
 	font: 15px arial, sans-serif;
-	
+}
+
+.mainWriteup{
+	color: white;
+	font-size: 20px;
+}
+.imageWriteup{
+	color: white;
 }
 
 nav {
@@ -101,17 +108,34 @@ footer {
 	padding-right: 75px;
 	color: white;
 }
+
 .image{
 	padding-left: 100px;
 	padding-right: 100px;
 	border-radius: 50%;
 }
+.rightSideImage{
+	float: right;
+	border-radius: 10%;
+	margin-left: 30px;
+	margin-right: 100px;
+}
+
+.leftSideImage{
+	float: left;
+	border-radius: 10%;
+	margin-right: 30px;
+	margin-left: 100px;
+}
+
+
 
 .poem{
 	color: white;
 	font-family: courier;
 	text-align: left;
 }
+
 .actual-image{
 	border-radius: 10%;
 }
@@ -136,7 +160,6 @@ footer {
 	font-size: 25px;
 	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 	margin-left: 7%;
-
 }
 
 a:link {

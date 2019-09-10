@@ -1,0 +1,156 @@
+
+
+body.a{
+	background-image: url("elaPoland.jpg");
+	background-size: cover;
+	background-position: auto;
+}
+
+body.b{
+	background-image: url("zofiaPoland.jpg");
+	background-size: cover;
+	background-position: auto;
+}
+
+body.c{
+	background-image: url("dokiKorea.jpg");
+	background-size: contain;
+	
+}
+
+body.d{
+	background-image: url("miraSpain.jpg");
+	background-size: contain;
+	
+	
+}
+
+h1{
+	font-size: 50px;
+	color: white;
+	margin-left: 80px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+h2{
+	font-size: 15px;
+	font: 15px arial, sans-serif;
+	margin-left: 1050px;
+	background-color: grey;
+}
+
+h3{
+	margin-left: 120px;
+}
+
+.homePageHeader{
+	color: white;
+}
+.aboutMeHeader{
+	color: white;
+}
+
+.projectsHeader{
+	color: white;
+}
+
+.contactHeader{
+	color:white;
+}
+
+p{
+	font: 15px arial, sans-serif;
+	
+}
+
+nav {
+  margin-left: 20%;
+  margin-right: 26%;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #464646;
+}
+
+hr {
+	color: black;
+	height: 2px;
+}
+
+footer {
+	position: fixed;
+   	left: 0;
+   	bottom: 0;
+   	width: 100%;
+   	text-align: center;
+}
+
+.navigation{
+	background-color: grey;
+	height: 22px;
+}
+
+
+.navItem{
+	padding-right: 70px;
+	color: white;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif
+}
+
+.bottomNavItem{
+	padding-left: 75px;
+	padding-right: 75px;
+	color: white;
+}
+.image{
+	padding-left: 100px;
+	padding-right: 100px;
+	border-radius: 50%;
+}
+
+.poem{
+	color: white;
+	font-family: courier;
+	text-align: left;
+}
+.actual-image{
+	border-radius: 10%;
+}
+
+
+
+.boldClass{
+	font-weight: bold;
+}
+
+#bigId{
+	font-size: 50px;
+}
+
+#back-to-top
+
+.back-to-top{
+	color: white;
+}
+
+.topLinkStyle{
+	font-size: 25px;
+	font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin-left: 7%;
+
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: blue;
+}

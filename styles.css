@@ -65,9 +65,11 @@ p{
 .mainWriteup{
 	color: white;
 	font-size: 20px;
+	line-height: 1.5;
 }
 .imageWriteup{
 	color: white;
+	line-height: 1.5;
 }
 
 nav {
@@ -118,14 +120,14 @@ footer {
 	float: right;
 	border-radius: 10%;
 	margin-left: 30px;
-	margin-right: 100px;
+	
 }
 
 .leftSideImage{
 	float: left;
 	border-radius: 10%;
 	margin-right: 30px;
-	margin-left: 100px;
+	
 }
 
 
